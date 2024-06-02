@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Quiz about React.js ⚛️
 
-## Getting Started
+This project is a React quiz application designed to test your knowledge of React.js. It represents my second attempt at creating a quiz application, with the aim of improving and optimizing the previous version. 
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features 💡
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Quiz Navigation**: Users can navigate through a series of questions and select answers.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **State Management**: Utilizes React's state management to handle user interactions and maintain quiz state.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Responsive Design**: The application is responsive, ensuring a smooth user experience across different devices and screen sizes.
 
-## Learn More
+- **Modal Feedback**: A modal provides feedback on the number of correct answers upon quiz completion.
 
-To learn more about Next.js, take a look at the following resources:
+- **Saved User Choices**: Selected answers are retained, allowing users to review their choices even after navigating through different questions.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies ⚙️
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Static badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 
-## Deploy on Vercel
+![Static badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Static badge](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Static Badge](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+
+## Overview 📱
+
+<img width="300px" src="public/overview-react-quiz.gif">
